@@ -1,0 +1,96 @@
+.insta-logo{
+   width: 160px;
+   margin-bottom: 0px;
+   padding: 0;
+
+}
+#icons{
+  margin-right: 20px;
+  margin-top: 10px;
+  font-size: 28px;
+}
+#search-bar{
+  margin-top: 15px;
+}
+#profile-pic{
+   border-radius: 50%;
+   width: 30px;
+   padding-bottom: 6px;
+
+}
+#profile-pic2{
+    border-radius: 50%;
+    margin-right: 10px;
+    width: 70px;
+    height: 70px;
+}
+#profile-pic3{
+  border-radius: 50%;
+  margin-right: 10px;
+  width: 50px;
+  height: 50px;
+}
+.story-border{
+  margin-top: 30px;
+border: 1px solid rgb(219, 219, 219);
+  border-radius: 8px;
+  
+}
+.stories{
+    margin: 8px;
+
+}
+ul{
+  list-style-type: none;
+  display: flex;
+  overflow: auto;
+  padding: 10px;
+  overflow-y: auto;
+  overflow:hidden;
+
+}
+li{
+  display: flex;
+  padding: 0 5px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.story{
+  margin: auto;
+  background-color: #fff;
+  position: relative;
+}
+.card-top{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+#dot-icon{
+  margin-left: auto;
+  margin-top: 15px;
+  font-size: 25px;
+}
+#card-top{
+  margin-top: 25px;
+  padding: 15px;
+  border-radius: 15px;
+}
+#bookmark{
+  margin-top: 12px;
+  float: right;
+  font-size: 28px;
+}
+#happy-face{
+  font-size: 28px;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  padding-top: 5px;
+  padding-bottom: 0px;
+}
+section{
+  background-color: #fafafa;
+}
+nav{
+  border-bottom: #fafafa;
+}
